@@ -1,0 +1,28 @@
+{
+  "name": "linkedin-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabyasachi00718/linkedin-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabyasachi00718/linkedin-frontend/issues"
+  },
+  "homepage": "https://github.com/sabyasachi00718/linkedin-frontend#readme",
+  "description": ""
+}
